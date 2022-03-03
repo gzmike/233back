@@ -11,7 +11,7 @@ cd v2ray
 chmod +x install.sh
 ./install.sh local
 如果提示 git 命令不可用，那就自己安装咯，不会安装啊？我也不知道啊。哈哈
-git clone https://github.com/gzmike/233back/v2ray -b master
+git clone https://github.com/gzmike/233back/ -b main
 cd v2ray
 chmod +x install.sh
 ./install.sh local
